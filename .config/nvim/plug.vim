@@ -19,6 +19,10 @@ if has("nvim")
 
   " wakatime
   Plug 'wakatime/vim-wakatime'
+
+  " Copilot
+  Plug 'github/copilot.vim'
+
 endif
 
 Plug 'groenewege/vim-less', { 'for': 'less' }
