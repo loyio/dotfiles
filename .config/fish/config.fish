@@ -16,8 +16,15 @@ alias vim="nvim"
 alias vi="nvim"
 alias ll "exa -l -g --icons"
 alias lla "ll -a"
-alias g "git"
 
+# Github
+alias g "git"
+alias gco "git checkout"
+alias gbd "git branch -d"
+alias gcb "git checkout -b"
+alias gcm "git commit -m"
+alias gpl "git pull"
+alias gps "git push"
 
 # Path
 set -gx PATH /opt/homebrew/bin $PATH
