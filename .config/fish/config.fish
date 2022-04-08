@@ -29,6 +29,7 @@ alias gps "git push"
 # Path
 set -gx PATH /opt/homebrew/bin $PATH
 set -gx PATH /opt/local/bin $PATH
+set -gx PATH /"$HOME"/bin $PATH
 set -gx CPLUS_INCLUDE_PATH /opt/homebrew/Cellar/boost/1.78.0_1/include $CPLUS_INCLUDE_PATH
 
 # >>> conda initialize >>>
