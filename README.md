@@ -11,3 +11,15 @@ Save my dotfiles
 - [z for fish](https://github.com/jethrokuan/z) - Directory jumping
 - [Exa](https://the.exa.website/) - `ls` replacement
 - [peco](https://github.com/peco/peco) - Interactive filtering on search, etc
+
+
+## PowerShell setup (Windows)
+- PowerShell (latest)
+- Windows Terminal
+- Scoop (Package manager)
+- chocolatey (Package manager)
+- oh-my-posh
+- Terminal-Icons
+- neovim
+- PSfzf
+- z
