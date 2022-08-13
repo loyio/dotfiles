@@ -17,6 +17,8 @@ alias vi="nvim"
 alias ll "exa -l -g --icons"
 alias lla "ll -a"
 
+alias lg "lazygit"
+
 alias mysql "/usr/local/mysql/bin/mysql"
 alias mysqladmin "/usr/local/mysql/bin/mysqladmin"
 
