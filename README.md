@@ -1,3 +1,15 @@
+# What I Use
+
+- 💻Computer: 
+    - Macbook 14 (2021) M1 Pro
+    - iPad Pro (2021)
+- ⌨️Keyboard: Logitech MX Keys
+- 🖱️Mouses: 
+    - Apple Magic Mouse 2
+    - Logitech G304
+
+
+
 # dotfiles
 Save my dotfiles
 
