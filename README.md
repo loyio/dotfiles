@@ -3,7 +3,9 @@
 - 💻Computer: 
     - Macbook 14 (2021) M1 Pro
     - iPad Pro (2021)
-- ⌨️Keyboard: Logitech MX Keys
+- ⌨️Keyboard: 
+    - Logitech MX Keys
+    - Leopold FC980MBT
 - 🖱️Mouses: 
     - Apple Magic Mouse 2
     - Logitech G304
