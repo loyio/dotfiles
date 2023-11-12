@@ -31,6 +31,12 @@ alias gcm "git commit -m"
 alias gpl "git pull"
 alias gps "git push"
 
+
+# Media
+alias ffmpeg "/opt/homebrew/bin/ffmpeg"
+alias ffplay "/opt/homebrew/bin/ffplay"
+alias ffprobe "/opt/homebrew/bin/ffprobe"
+
 # Path
 set -gx PATH /opt/homebrew/bin $PATH
 set -gx PATH /opt/local/bin $PATH

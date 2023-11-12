@@ -2,7 +2,19 @@
 
 - 💻Computer: 
     - Macbook 14 (2021) M1 Pro
+    - PC (202306)
+        - Intel Core i9-13900KF
+        - ASUS PRIME Z790-P WIFI D5  
+        - MAXSUN RTX4080 Turbo
     - iPad Pro (2021)
+- 🖥️Display:
+    - Apple Studio Display (2022)
+    - BenQ EW2880U
+
+- 🎮Console:
+    - Xbox Series X
+    - PlayStation 5
+
 - ⌨️Keyboard: 
     - Logitech MX Keys
     - Leopold FC980MBT
