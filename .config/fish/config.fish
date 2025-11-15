@@ -46,6 +46,11 @@ set -gx CPLUS_INCLUDE_PATH /opt/homebrew/Cellar/boost/1.78.0_1/include $CPLUS_IN
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-eval /Users/loyio/miniforge3/bin/conda "shell.fish" "hook" $argv | source
+# eval /Users/loyio/miniforge3/bin/conda "shell.fish" "hook" $argv | source
 # <<< conda initialize <<<
 
+status --is-interactive; and pyenv init - | source
+
+# bun
+set --export BUN_INSTALL "$HOME/.bun"
+set --export PATH $BUN_INSTALL/bin $PATH
