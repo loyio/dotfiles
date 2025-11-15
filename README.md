@@ -13,7 +13,8 @@
 
 - 🎮Console:
     - Xbox Series X
-    - PlayStation 5
+    - PlayStation 5 (With PlayStation VR2)
+    - Steam Deck OLED
 
 - ⌨️Keyboard: 
     - Logitech MX Keys
